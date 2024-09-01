@@ -17,11 +17,11 @@
    - 在您的操作系统中设置环境变量 `ZHIPUAI_KEY`，值为您从智谱AI获取的API密钥。
    - 例如，在Linux或macOS上，可以在终端中运行：
      ```bash
-     export ZHIPUAI_KEY=your_api_key_here
+     export ZHIPUAI_API_KEY=your_api_key_here
      ```
    - 在Windows上，可以在命令提示符中运行：
      ```cmd
-     set ZHIPUAI_KEY=your_api_key_here
+     set ZHIPUAI_API_KEY=your_api_key_here
      ```
 
 ## 使用示例
