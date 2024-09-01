@@ -51,8 +51,8 @@ print(embedding_vector)
 ## 联系我们
 
 如果您在使用过程中遇到任何问题，或有任何建议，请随时联系我们：
-- 邮箱：support@zhipuai.com
-- 官方网站：https://www.zhipuai.com
+- 邮箱：3306065226@qq.com
+- 官方网站：https://www.zhipuai.cn/
 
 感谢您选择智谱AI！
 ```
